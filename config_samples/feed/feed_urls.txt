@@ -1,0 +1,6 @@
+https://github.blog/feed/
+https://stackoverflow.blog/feed/
+https://engineering.atspotify.com/feed/
+https://netflixtechblog.com/feed
+https://engineering.fb.com/feed/
+https://www.ruby-lang.org/en/feeds/news.rss

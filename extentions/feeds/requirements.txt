@@ -1,0 +1,4 @@
+openai
+feedparser
+html2text
+requests

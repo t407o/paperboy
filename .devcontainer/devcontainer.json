@@ -1,0 +1,12 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
+	"features": {
+		"ghcr.io/devcontainers/features/git:1": {}
+	},
+	"runArgs": [
+		"--env-file",
+		".env"
+	],
+	"postStartCommand": "pip install -r requirements.txt -r extentions/feed/requirements.txt"
+}
