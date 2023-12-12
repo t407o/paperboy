@@ -8,5 +8,5 @@
 		"--env-file",
 		".env"
 	],
-	"postStartCommand": "pip install -r requirements.txt -r extentions/feed/requirements.txt"
+	"postStartCommand": "pip install -r requirements.txt"
 }
