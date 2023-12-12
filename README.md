@@ -1,12 +1,12 @@
 # paperboy
 <p align="center">
-    <img src="https://github.com/t407o/paperboy/assets/57845734/44a9e301-ef3a-4ee2-9a2d-0ac8057e0481" width=200/>
+    <img width=400 src="https://github.com/t407o/paperboy/assets/57845734/1db247b8-cd52-45e2-afde-78b4dadf76f4"/>
 </p>
 
 *A faithful deliverer to help watching new arrivals in messaging apps.*
 
 <p align="center">
-    <img width="600" alt="image" src="https://github.com/t407o/paperboy/assets/57845734/606117bf-b4ba-429c-b9c3-e9d92bfa5d7f">
+    <img width="600" alt="image" src="https://github.com/t407o/paperboy/assets/57845734/606117bf-b4ba-429c-b9c3-e9d92bfa5d7f"/>
 </p>
 
 # paperboy is designed to...
