@@ -11,8 +11,8 @@ from .model import Message
 from .openai_client import one_shot
 
 
-urls = read_lines(os.path.join("feed", "feed_urls.txt"))
-prompt_summarize = read_str(os.path.join("feed", "prompt_summarize.txt"))
+urls = read_lines(os.path.join("feeds", "feed_urls.txt"))
+prompt_summarize = read_str(os.path.join("feeds", "prompt_summarize.txt"))
 
 class FeedsWatcher(MessageProvider):
     def sync(self, on_message_provided: OnMessageProvided):

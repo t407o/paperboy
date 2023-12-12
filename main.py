@@ -45,7 +45,7 @@ def init():
         print("config directory not found. creating with samples...")
         shutil.copytree(os.path.join(ROOT_DIR, "config_samples"), os.environ['PAPERBOY_CONFIG_DIR'])
 
-    # Use only feed extention if extensions are not specified
+    # Use only feeds extention if extensions are not specified
     if not requested_extentions:
         requested_extentions.append("feeds")
     for extention in requested_extentions:

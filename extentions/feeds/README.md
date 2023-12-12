@@ -9,11 +9,11 @@ python main.py
 or you can specify explicitly
 ```bash
 # in "paperboy" dir
-python main.py -e feed
+python main.py -e feeds
 ```
 
 ### Configure
-The configuration files are in the `config/feed` dir.
+The configuration files are in the `config/feeds` dir.
 
 | File name | Description |
 |----------|-------------|
