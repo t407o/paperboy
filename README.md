@@ -5,6 +5,10 @@
 
 *A faithful deliverer to help watching new arrivals in messaging apps.*
 
+<p align="center">
+    <img width="600" alt="image" src="https://github.com/t407o/paperboy/assets/57845734/606117bf-b4ba-429c-b9c3-e9d92bfa5d7f">
+</p>
+
 # paperboy is designed to...
 1. **Fetch** new arrivals from *data sources*
 2. **Summarize** it by `ChatGPT` API
@@ -23,11 +27,6 @@ graph
     Feeds -.-> |uses| ChatGPT
     GS -.-> |uses| ChatGPT
 ```
-
-<p align="center">
-    <img width="600" alt="image" src="https://github.com/t407o/paperboy/assets/57845734/606117bf-b4ba-429c-b9c3-e9d92bfa5d7f">
-</p>
-
 
 ### Data souces
 The followings are supported for now
